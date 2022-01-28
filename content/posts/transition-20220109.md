@@ -3,7 +3,8 @@ title: "Transition"
 date: "2022-01-09"
 draft: false
 author: "Milly Rowett"
-description: "Life is all about change. I had never thought I would be a software engineer in earnest."
+tags: ["IC to EM", "Musings"]
+summary: "Life is all about change. I had never thought I would be a software engineer in earnest..."
 ---
 
 Life is all about change. I had never thought I would be a software engineer in earnest. 
@@ -20,7 +21,7 @@ And sometimes both at once.
 
 Engineering is something I’ve been working on for the last six years. First at REA Group as an IT Graduate, then mid-level developer and finally a senior developer. Coming to Cash App, it was all about grinding my engineering chops against the whetstone that was a large American engineering company and learning as much as possible.
 
-Management was far away for me. Or so I thought (cue foreboding music).
+Management was far away for me. Or so I thought (cue foreboding music). 
 
 In the later part of 2021, our team (eight, becoming nine, developers, and one engineering manager) was going to split in two to pursue different objectives. This left one engineering manager for two teams, and it was clear this wasn’t working very well. 
 
@@ -37,7 +38,8 @@ So, although my lizard brain was freaking out, saying “too early, too early”
 
 I started this blog so I could pen some thoughts about the move, and hopefully learn in public about what it means to be an engineer, a female, a LGBTQ+ identifying person going into management for the first time.
 
-Wish me luck!
+Wish me luck in my metamorphosis.
+![Metamorphomilly](/images/metamorphomilly.jpg)
 
 -- **Milly Rowett**
 
