@@ -5,9 +5,9 @@ theme: mini
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
 pygmentsUseClasses: true
-paginate: 3
+paginate: 10
 permalinks:
-  posts: /posts/:title/
+  posts: /posts/:slug/
 
 social:
   # e.g.
@@ -17,10 +17,10 @@ social:
 params:
   author: Milly Rowett
   # Author biography
-  bio: Currently learning in public how to be an Engineering Manager
+  bio: Currently learning in public how to be an Engineering Manager. Updates twice monthly (maybe).
   # Site Description, used in HTML meat
   description: Musings on management and engineering
-  copyright: ' '
+  copyright: '© Milly Rowett 2022'
   showPowerBy: false
   customCSS:
     - css/custom.css # local css in `static/css/custom.css`
